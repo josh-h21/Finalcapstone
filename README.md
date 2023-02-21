@@ -1,10 +1,8 @@
 # Finalcapstone
-Unsupervised learning- US Arrests database
+## Unsupervised learning- US Arrests database
+
 This report presents an analysis of the "UsArrests.csv" dataset. 
-The dataset contains statistics on the number of arrests per 100,000 
-residents for three different types of crimes (murder, assault, and 
-rape) in each of the 50 US states in 1973. Additionally, it includes
-the percentage of the population living in urban areas.
+The dataset contains statistics on crime rates in each of the 50 US states in 1973. Additionally, it includes the percentage of the population living in urban areas.
 
 In this task, we explore the differences between US States using
 unsupervised learning methods, Principal Component Analysis (PCA)
